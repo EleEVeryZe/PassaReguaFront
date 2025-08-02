@@ -23,8 +23,7 @@ jobs:
 #      - name: Build App TODO: Voltar configuração após definição da Stack
  #       run: |
   #        npm i
-   #       npm run build
-
+   #       npm run build 
       - name: Sync next files to S3
         run: |
           aws s3 sync ./dist s3://passareguav1/ --delete
