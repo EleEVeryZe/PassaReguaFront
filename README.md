@@ -98,5 +98,6 @@ Utilize os provedores sociais com suporte nativo:
 - Chaves de API para Google e Facebook
 
 ```bash
-npm install
+npm install 
 ng serve
+ 
