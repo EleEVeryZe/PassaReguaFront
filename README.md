@@ -100,3 +100,4 @@ Utilize os provedores sociais com suporte nativo:
 ```bash
 npm install 
 ng serve
+ 
