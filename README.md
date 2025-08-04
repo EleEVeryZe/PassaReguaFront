@@ -15,6 +15,12 @@ PassaRegua é uma aplicação web desenvolvida em Angular que permite aos usuár
 
 ---
 
+## Documentação
+
+- [Sprint 1 - Desenvolvimento da Ideia do Projeto (08/08/2025)](docs/ideia-projeto.md)
+
+---
+
 ## 🧠 Como Funciona?
 
 ### 1. Autenticação
